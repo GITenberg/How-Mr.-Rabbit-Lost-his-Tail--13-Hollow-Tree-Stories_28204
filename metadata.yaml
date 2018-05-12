@@ -19,6 +19,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: Several stories about the animals that live in the Hollow Tree and Deep
   Woods Country.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28204#How-Mr.-Rabbit-Lost-his-Tail--13-Hollow-Tree-Stories
 gutenberg_issued: '2009-02-27'
 gutenberg_type: Text
 identifiers:
